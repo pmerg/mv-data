@@ -11,5 +11,6 @@
 		"rrsult",
 		"1.e4 e5"
 	],
+	"Event": "hello world",
 	"Game Moves": "            Edit the form and notice how the values persist after you refresh!\n        "
 }
