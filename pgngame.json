@@ -15,5 +15,9 @@
 	"Site": "site",
 	"Date": "Date",
 	"Round": "Round",
+	"White": "White",
+	"Black": "Black",
+	"Opening": "Opening",
+	"ECO": "ECO",
 	"Game Moves": "            Edit the form and notice how the values persist after you refresh!\n        "
 }
