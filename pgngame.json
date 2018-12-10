@@ -22,5 +22,6 @@
 	" Result": "Result",
 	"Game Moves": "1.e4 e5\n        ",
 	"[Event]": "Event1",
-	"[Site]": "Site"
+	"[Site]": "Site",
+	"Event]": "Event:"
 }
