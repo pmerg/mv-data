@@ -2,12 +2,12 @@
 	"pgn": [
 		"hello world ",
 		"site",
-		null,
-		null,
-		null,
-		null,
-		null,
-		null,
+		"date",
+		"round",
+		"white ",
+		"black",
+		"opening",
+		"eco",
 		null,
 		"    "
 	]
