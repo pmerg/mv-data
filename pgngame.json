@@ -13,5 +13,7 @@
 	],
 	"Event": "hello world",
 	"Site": "site",
+	"Date": "Date",
+	"Round": "Round",
 	"Game Moves": "            Edit the form and notice how the values persist after you refresh!\n        "
 }
