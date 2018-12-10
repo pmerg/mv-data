@@ -12,5 +12,6 @@
 		"1.e4 e5"
 	],
 	"Event": "hello world",
+	"Site": "site",
 	"Game Moves": "            Edit the form and notice how the values persist after you refresh!\n        "
 }
