@@ -30,20 +30,6 @@
 		}
 	],
 	"chesspgn": [
-		{
-			"Date": {
-				"Round": {
-					"White": {
-						"Black": {
-							"Opening": {
-								"ECOname": {
-									"Result": {}
-								}
-							}
-						}
-					}
-				}
-			}
-		}
+		{}
 	]
 }
