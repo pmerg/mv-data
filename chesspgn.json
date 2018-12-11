@@ -83,7 +83,21 @@
 		},
 		{
 			"Eventname": [
-				null,
+				{
+					"Datename": {
+						"Roundname": {
+							"Whitename": {
+								"Blackname": {
+									"Openingname": {
+										"ECOname": {
+											"Resultname": {}
+										}
+									}
+								}
+							}
+						}
+					}
+				},
 				{
 					"Datename": {
 						"Roundname": {
