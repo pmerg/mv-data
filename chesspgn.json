@@ -51,16 +51,17 @@
 				}
 			},
 			"Event": {
-				"Site": {
-					"Date": {
-						"Round": {
-							"White": {
-								"Black": {
-									"Opening": {
-										"ECOname": {
-											"Result": {
-												"gamemovesname": "gamemovesname    "
-											}
+				"Site": "hhh"
+			},
+			"Site": {
+				"Date": {
+					"Round": {
+						"White": {
+							"Black": {
+								"Opening": {
+									"ECOname": {
+										"Result": {
+											"gamemoves": "gamemoves\n    "
 										}
 									}
 								}
@@ -87,6 +88,21 @@
 						}
 					}
 				}
+			},
+			"Site": {
+				"Date": {
+					"Round": {
+						"White": {
+							"Black": {
+								"Opening": {
+									"ECOname": {
+										"Result": {}
+									}
+								}
+							}
+						}
+					}
+				}
 			}
 		},
 		{
@@ -100,6 +116,21 @@
 										"ECOname": {
 											"Result": {}
 										}
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"Site": {
+				"Date": {
+					"Round": {
+						"White": {
+							"Black": {
+								"Opening": {
+									"ECOname": {
+										"Result": {}
 									}
 								}
 							}
