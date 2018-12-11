@@ -30,6 +30,17 @@
 		}
 	],
 	"chesspgn": [
-		{}
+		{
+			"Event": "g",
+			"Site": "fgf",
+			"Date": "fh",
+			"Round": "hfh",
+			"White": "bc",
+			"Black": "fj",
+			"Opening": "dhdh",
+			"ECOname": "dgg",
+			"Result": "eyey",
+			"gamemoves": "yeyy"
+		}
 	]
 }
