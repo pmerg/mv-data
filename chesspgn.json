@@ -10,15 +10,34 @@
 	],
 	"chesspgngame": [
 		{
-			"Eventname": {
-				"Datename": {
-					"Roundname": {
-						"Whitename": {
-							"Blackname": {
-								"Openingname": {
-									"ECOname": {
-										"Resultname": {
-											"gamemovesname": "gamemovesname\n    "
+			"Eventname": [
+				{
+					"Datename": {
+						"Roundname": {
+							"Whitename": {
+								"Blackname": {
+									"Openingname": {
+										"ECOname": {
+											"Resultname": {
+												"gamemovesname": "gamemovesname\n    "
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				{
+					"Datename": {
+						"Roundname": {
+							"Whitename": {
+								"Blackname": {
+									"Openingname": {
+										"ECOname": {
+											"Resultname": {
+												"gamemovesname": "gamemovesname\n    "
+											}
 										}
 									}
 								}
@@ -26,24 +45,61 @@
 						}
 					}
 				}
-			}
+			]
 		},
 		{
-			"Eventname": {
-				"Datename": {
-					"Roundname": {
-						"Whitename": {
-							"Blackname": {
-								"Openingname": {
-									"ECOname": {
-										"Resultname": {}
+			"Eventname": [
+				{
+					"Datename": {
+						"Roundname": {
+							"Whitename": {
+								"Blackname": {
+									"Openingname": {
+										"ECOname": {
+											"Resultname": {}
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				{
+					"Datename": {
+						"Roundname": {
+							"Whitename": {
+								"Blackname": {
+									"Openingname": {
+										"ECOname": {
+											"Resultname": {}
+										}
 									}
 								}
 							}
 						}
 					}
 				}
-			}
+			]
+		},
+		{
+			"Eventname": [
+				null,
+				{
+					"Datename": {
+						"Roundname": {
+							"Whitename": {
+								"Blackname": {
+									"Openingname": {
+										"ECOname": {
+											"Resultname": {}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			]
 		}
 	]
 }
