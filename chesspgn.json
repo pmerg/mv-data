@@ -27,6 +27,25 @@
 					}
 				}
 			}
+		},
+		{
+			"Eventname": {
+				"Sitename": {
+					"Datename": {
+						"Roundname": {
+							"Whitename": {
+								"Blackname": {
+									"Openingname": {
+										"ECOname": {
+											"Resultname": {}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
 		}
 	]
 }
