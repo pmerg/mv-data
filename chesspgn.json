@@ -31,42 +31,6 @@
 	],
 	"chesspgn": [
 		{
-			"Event": {
-				"Site": {
-					"Date": {
-						"Round": {
-							"White": {
-								"Black": {
-									"Opening": {
-										"ECOname": {
-											"Result": {}
-										}
-									}
-								}
-							}
-						}
-					}
-				}
-			},
-			"Site": {
-				"Date": {
-					"Round": {
-						"White": {
-							"Black": {
-								"Opening": {
-									"ECOname": {
-										"Result": {
-											"gamemoves": "gamemoves\n    "
-										}
-									}
-								}
-							}
-						}
-					}
-				}
-			}
-		},
-		{
 			"Site": {
 				"Date": {
 					"Round": {
