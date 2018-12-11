@@ -7,5 +7,43 @@
 			"Eventname": "1"
 		},
 		{}
+	],
+	"chesspgngame": [
+		{
+			"Eventname": {
+				"Datename": {
+					"Roundname": {
+						"Whitename": {
+							"Blackname": {
+								"Openingname": {
+									"ECOname": {
+										"Resultname": {
+											"gamemovesname": "gamemovesname\n    "
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		{
+			"Eventname": {
+				"Datename": {
+					"Roundname": {
+						"Whitename": {
+							"Blackname": {
+								"Openingname": {
+									"ECOname": {
+										"Resultname": {}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
 	]
 }
