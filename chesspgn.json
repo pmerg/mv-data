@@ -31,15 +31,13 @@
 	],
 	"chesspgn": [
 		{
-			"Site": {
-				"Date": {
-					"Round": {
-						"White": {
-							"Black": {
-								"Opening": {
-									"ECOname": {
-										"Result": {}
-									}
+			"Date": {
+				"Round": {
+					"White": {
+						"Black": {
+							"Opening": {
+								"ECOname": {
+									"Result": {}
 								}
 							}
 						}
